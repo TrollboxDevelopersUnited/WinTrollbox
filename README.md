@@ -1,5 +1,7 @@
 # WinTrollbox
 Native Trollbox App using eel
+
+NOTE: This is outdated, please install this by setup.
 ## Q&A
 ### Q: It doenst run in Mac OS, Android or Windows XP :(
 A: This is only for Windows 10/11
