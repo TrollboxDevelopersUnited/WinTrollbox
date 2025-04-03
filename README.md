@@ -15,7 +15,7 @@ A: Right click then refresh.
 A: It doenst support prompt, which is part of the TB source.
 ### Q: BONZIWORLD IS BE-
 A: NO.
-### Q: Why its there 2.0 and not 1.0?
+### Q: Why there is no 1.0?
 A: Beause this is part of TBtrollbox but i decided to make separate repos.
 ### Q: Who created this?
 A: Its not TrollboxDevelopersUnited beause its a organization, and its made by Miweoroooo192.
