@@ -1,7 +1,7 @@
 # WinTrollbox
-Native Trollbox App using eel
+Native Trollbox App using <del>eel</del> <del>tauri</del> WPF!!!!!! (with C#)
 
-NOTE: This is outdated, please install this in https://github.com/TrollboxDevelopersUnited/wintrollboxsetup/
+tool used to download wintrollbox in wintrollboxsetup
 ## Q&A
 ### Q: It doenst run in Mac OS, Android or Windows XP :(
 A: This is only for Windows 10/11
