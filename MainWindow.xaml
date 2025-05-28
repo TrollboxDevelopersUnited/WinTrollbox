@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testapp9"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        xmlns:Wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf" x:Class="testapp9.MainWindow"
+        mc:Ignorable="d"
+        Icon="C:\Users\Admin\Downloads\favicon (1).png"
+        Title="Trollbox" Height="768" Width="1366">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel>
+            <wv2:WebView2 Name="webView"
+                  Source="https://www.windows93.net/trollbox"
+   />
+        </DockPanel>
+
+    </Grid>
+</Window>
